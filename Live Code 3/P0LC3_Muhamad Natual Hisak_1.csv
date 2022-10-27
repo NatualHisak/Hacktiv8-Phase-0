@@ -1,0 +1,6 @@
+unique_key,address,census_tract,clearance_date,clearance_status,council_district_code,description,district,latitude,longitude,location,location_description,primary_type,timestamp,x_coordinate,y_coordinate,year,zipcode
+20165002898,"Austin, TX",,2016-03-14 12:00:00.000000 UTC,Not cleared,,RAPE                          ,UK,,,,nan,Rape,2016-01-19 12:00:00.000000 UTC,,,2016,
+20165004843,"Austin, TX",,2016-03-31 12:00:00.000000 UTC,Not cleared,,RAPE                          ,UK,,,,nan,Rape,2016-01-25 12:00:00.000000 UTC,,,2016,
+2016250988,"Austin, TX",,2016-09-16 12:00:00.000000 UTC,Not cleared,,RAPE                          ,UK,,,,nan,Rape,2016-01-25 12:00:00.000000 UTC,,,2016,
+20165003839,"Austin, TX",,2016-02-09 12:00:00.000000 UTC,Not cleared,,AGG RAPE OF A CHILD           ,UK,,,,nan,Rape,2016-01-27 12:00:00.000000 UTC,,,2016,
+2016321746,"Austin, TX",,2016-03-22 12:00:00.000000 UTC,Not cleared,,RAPE OF A CHILD               ,UK,,,,nan,Rape,2016-02-01 12:00:00.000000 UTC,,,2016,
